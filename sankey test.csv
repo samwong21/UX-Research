@@ -1,0 +1,47 @@
+Respondant ID,User Flow Level,User_Flow,Flow Type
+1,Main Pages,Profile,a
+1,Sub-pages,Search,a
+1,Sub-pages,Chat,a
+1,Sub-pages,PSYCH 10 Chat,a
+1,Go-back,Chat,a
+1,Sub-pages,MATH 31B,a
+1,Sub-pages,ENGCOMP 1,a
+1,Sub-pages,Search,a
+1,Main Pages,Profile,a
+1,Sub-pages,Main Settings,a
+1,Sub-pages,Chat Settings,a
+1,Sub-pages,Archived Pages,a
+1,Task Complete,PSYCH 186B Chat,a
+2,Main Pages,Profile,a
+2,Sub-pages,Search,a
+2,Sub-pages,Chat,a
+2,Sub-pages,PSYCH 10 Chat,a
+2,Go-back,Chat,a
+2,Sub-pages,MATH 31B,a
+2,Sub-pages,ENGCOMP 1,a
+2,Sub-pages,Search,a
+2,Main Pages,Profile,a
+2,Sub-pages,Main Settings,a
+2,Sub-pages,Chat Settings,a
+2,Sub-pages,Archived Pages,a
+2,Task Complete,PSYCH 186B Chat,a
+3,Main Pages,Profile,b
+3,Sub-pages,Search,b
+3,Sub-pages,Chat,b
+3,Sub-pages,PSYCH 10 Chat,b
+3,Go-back,Chat,b
+3,Sub-pages,PSYCH 10 Chat,b
+3,Go-back,Chat,b
+3,Sub-pages,Search,b
+3,Main Pages,Profile,b
+3,Sub-pages,Main Settings,b
+3,Go-back,Profile,b
+3,Sub-pages,Main Settings,b
+3,Sub-pages,Chat Settings,b
+3,Sub-pages,Archived Pages,b
+3,Task Complete,PSYCH 186B Chat,b
+4,Main Pages,Profile,c
+4,Sub-pages,Main Settings,c
+4,Sub-pages,Chat Settings,c
+4,Sub-pages,Archived Pages,c
+4,Task Complete,PSYCH 186B Chat,c
